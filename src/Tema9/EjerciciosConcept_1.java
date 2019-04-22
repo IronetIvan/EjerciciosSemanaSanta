@@ -26,21 +26,21 @@ public class EjerciciosConcept_1 {
 
         //Piloto nº 2
         PilotosF1 Piloto2F1 = new PilotosF1();
-        Piloto2F1.setNombre("Lewis Hamilton");
-        Piloto2F1.setNacionalidad("Inglaterra");
-        Piloto2F1.setEdad(34);
-        Piloto2F1.setCarreras(232);
-        Piloto2F1.setCampeonatos(5);
-        Piloto2F1.setPuntostemporada(251.5);
+        Piloto2F1.setNombre("Felipe Massa");
+        Piloto2F1.setNacionalidad("Brasileño");
+        Piloto2F1.setEdad(37);
+        Piloto2F1.setCarreras(272);
+        Piloto2F1.setCampeonatos(0);
+        Piloto2F1.setPuntostemporada(64.2);
 
         //Piloto nº 3
         PilotosF1 Piloto3F1 = new PilotosF1();
-        Piloto3F1.setNombre("Sebastian Vettel");
-        Piloto3F1.setNacionalidad("Alemania");
-        Piloto3F1.setEdad(31);
-        Piloto3F1.setCarreras(223);
-        Piloto3F1.setCampeonatos(4);
-        Piloto3F1.setPuntostemporada(228.75);
+        Piloto3F1.setNombre("Kimi Raikonnen");
+        Piloto3F1.setNacionalidad("Finlandes");
+        Piloto3F1.setEdad(39);
+        Piloto3F1.setCarreras(297);
+        Piloto3F1.setCampeonatos(1);
+        Piloto3F1.setPuntostemporada(87.5);
 
         System.out.println(Piloto1F1.Fernando_Alonso());
         System.out.println(Piloto2F1.Lewis_Hamilton());
